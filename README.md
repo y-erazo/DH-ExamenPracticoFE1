@@ -19,8 +19,10 @@ Sus usuarios deberían poder:
 
 ## Construyendo tu proyecto
 Link a [Figma](https://www.figma.com/file/3PSyK3KYcmvbwK2OVFjFWm/Nico-Digital?node-id=4%3A2)
+![Diseño](https://user-images.githubusercontent.com/54871751/189164379-ec14c46a-093b-4f62-a71c-98bf0b2815e0.png)
 
-## Envío de su solución
+
+## Resolución
 [Ver en vivo 🚀](https://yazmin-erazo.github.io/DH-ExamenPracticoFE1/)
 
 <br/>
