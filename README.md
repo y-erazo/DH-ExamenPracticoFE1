@@ -21,14 +21,14 @@ Sus usuarios deberían poder:
 Link a [Figma](https://www.figma.com/file/3PSyK3KYcmvbwK2OVFjFWm/Nico-Digital?node-id=4%3A2)
 
 ## Envío de su solución
-[Ver en vivo 🚀](https://y-erazo.github.io/DH-ExamenPracticoFE1/)
+[Ver en vivo 🚀](https://yazmin-erazo.github.io/DH-ExamenPracticoFE1/)
 
 <br/>
 <br/>
 <br/>
 
 ---
-Con ❤️ por [Yazmin-Erazo](https://github.com/y-erazo) 😊
+Con ❤️ por [Yazmin-Erazo](https://github.com/yazmin-erazo) 😊
 
 <br/>
 <br/>
