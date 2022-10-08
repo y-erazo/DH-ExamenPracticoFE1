@@ -6,24 +6,23 @@ Sus usuarios deberían poder:
 
 - Ver el diseño óptimo para el sitio según el tamaño de la pantalla de su dispositivo
 - Los aspectos que tendremos en cuenta para la corrección serán los siguientes:
-         -Estructura correcta de HTML
-         -Uso y correcta implementación de etiquetas semánticas
-         -Adaptabilidad a dos tipos de dispositivos
-         -Correcta implementación del fomulario
-         -Imagens, iconos, fuentes, background
-         -Implementación de Flexbox
-         -Buenas Practicas en el CSS
-         -Pseudoelementos y Pseudoclases 
-         -(opcional) ---> Pequeñas animaciones
+         <br/>-Estructura correcta de HTML
+         <br/>-Uso y correcta implementación de etiquetas semánticas
+         <br/>-Adaptabilidad a dos tipos de dispositivos
+         <br/>-Correcta implementación del fomulario
+         <br/>-Imagens, iconos, fuentes, background
+         <br/>-Implementación de Flexbox
+         <br/>-Buenas Practicas en el CSS
+         <br/>-Pseudoelementos y Pseudoclases 
+         <br/>-(opcional) ---> Pequeñas animaciones
 
 
-## Construyendo tu proyecto
-Link a [Figma](https://www.figma.com/file/3PSyK3KYcmvbwK2OVFjFWm/Nico-Digital?node-id=4%3A2)
+## Proyecto
+# [Ver en vivo 🚀](https://yazmin-erazo.github.io/DH-ExamenPracticoFE1/)
 ![Diseño](https://user-images.githubusercontent.com/54871751/189164379-ec14c46a-093b-4f62-a71c-98bf0b2815e0.png)
 
 
-## Resolución
-[Ver en vivo 🚀](https://yazmin-erazo.github.io/DH-ExamenPracticoFE1/)
+
 
 <br/>
 <br/>
