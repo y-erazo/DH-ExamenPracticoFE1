@@ -18,10 +18,8 @@ Sus usuarios deberían poder:
 
 
 ## Proyecto
-# [Ver en vivo 🚀](https://yazmin-erazo.github.io/DH-ExamenPracticoFE1/)
+# [Ver en vivo 🚀](https://yazmin-erazo.github.io/landing-page/)
 ![Diseño](https://user-images.githubusercontent.com/54871751/189164379-ec14c46a-093b-4f62-a71c-98bf0b2815e0.png)
-
-
 
 
 <br/>
